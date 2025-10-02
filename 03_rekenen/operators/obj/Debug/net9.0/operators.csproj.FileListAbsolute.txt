@@ -1,0 +1,15 @@
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\operators.AssemblyInfoInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\operators.AssemblyInfo.cs
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\operators.sourcelink.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\bin\Debug\net9.0\operators.exe
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\bin\Debug\net9.0\operators.deps.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\bin\Debug\net9.0\operators.runtimeconfig.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\bin\Debug\net9.0\operators.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\bin\Debug\net9.0\operators.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\operators.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\refint\operators.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\operators.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\operators.genruntimeconfig.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\operators\obj\Debug\net9.0\ref\operators.dll

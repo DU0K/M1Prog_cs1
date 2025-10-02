@@ -1,0 +1,15 @@
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\bin\Debug\net9.0\calcextra.exe
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\bin\Debug\net9.0\calcextra.deps.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\bin\Debug\net9.0\calcextra.runtimeconfig.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\bin\Debug\net9.0\calcextra.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\bin\Debug\net9.0\calcextra.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\calcextra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\calcextra.AssemblyInfoInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\calcextra.AssemblyInfo.cs
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\calcextra.csproj.CoreCompileInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\calcextra.sourcelink.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\calcextra.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\refint\calcextra.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\calcextra.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\calcextra.genruntimeconfig.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\calcextra\obj\Debug\net9.0\ref\calcextra.dll

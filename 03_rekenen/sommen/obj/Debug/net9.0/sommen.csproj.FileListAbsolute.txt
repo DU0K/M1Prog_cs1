@@ -1,0 +1,15 @@
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\bin\Debug\net9.0\sommen.exe
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\bin\Debug\net9.0\sommen.deps.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\bin\Debug\net9.0\sommen.runtimeconfig.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\bin\Debug\net9.0\sommen.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\bin\Debug\net9.0\sommen.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\sommen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\sommen.AssemblyInfoInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\sommen.AssemblyInfo.cs
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\sommen.csproj.CoreCompileInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\sommen.sourcelink.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\sommen.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\refint\sommen.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\sommen.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\sommen.genruntimeconfig.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\03_rekenen\sommen\obj\Debug\net9.0\ref\sommen.dll
