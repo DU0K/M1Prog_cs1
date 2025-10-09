@@ -1,0 +1,15 @@
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\bin\Debug\net9.0\direct.exe
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\bin\Debug\net9.0\direct.deps.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\bin\Debug\net9.0\direct.runtimeconfig.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\bin\Debug\net9.0\direct.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\bin\Debug\net9.0\direct.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\direct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\direct.AssemblyInfoInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\direct.AssemblyInfo.cs
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\direct.csproj.CoreCompileInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\direct.sourcelink.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\direct.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\refint\direct.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\direct.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\direct.genruntimeconfig.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\direct\obj\Debug\net9.0\ref\direct.dll

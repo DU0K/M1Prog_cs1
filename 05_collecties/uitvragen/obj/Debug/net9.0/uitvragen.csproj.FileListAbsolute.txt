@@ -1,0 +1,15 @@
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.AssemblyInfoInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.AssemblyInfo.cs
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.csproj.CoreCompileInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.sourcelink.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.exe
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.deps.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.runtimeconfig.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\refint\uitvragen.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.genruntimeconfig.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\05_collecties\uitvragen\obj\Debug\net9.0\ref\uitvragen.dll
