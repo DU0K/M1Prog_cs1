@@ -1,0 +1,5 @@
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\06_loops\01 loop\obj\Debug\net9.0\01 loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\06_loops\01 loop\obj\Debug\net9.0\01 loop.AssemblyInfoInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\06_loops\01 loop\obj\Debug\net9.0\01 loop.AssemblyInfo.cs
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\06_loops\01 loop\obj\Debug\net9.0\01 loop.csproj.CoreCompileInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\06_loops\01 loop\obj\Debug\net9.0\01 loop.sourcelink.json
