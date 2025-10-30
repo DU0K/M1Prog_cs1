@@ -1,0 +1,15 @@
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\bin\Debug\net9.0\math.exe
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\bin\Debug\net9.0\math.deps.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\bin\Debug\net9.0\math.runtimeconfig.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\bin\Debug\net9.0\math.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\bin\Debug\net9.0\math.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\math.AssemblyInfoInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\math.AssemblyInfo.cs
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\math.csproj.CoreCompileInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\math.sourcelink.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\math.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\refint\math.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\math.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\math.genruntimeconfig.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\07_func_use\math\obj\Debug\net9.0\ref\math.dll
