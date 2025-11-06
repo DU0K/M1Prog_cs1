@@ -1,6 +1,6 @@
 namespace autoclass;
 
-class autoclass
+class Auto
 {
     internal string merk;
     internal int bouwjaar;

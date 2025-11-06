@@ -1,0 +1,15 @@
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.AssemblyInfoInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.AssemblyInfo.cs
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.csproj.CoreCompileInputs.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.sourcelink.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.exe
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.deps.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.runtimeconfig.json
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\refint\autoclass.dll
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.pdb
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.genruntimeconfig.cache
+C:\Users\svenb\Documents\School\ProgC#\M1prog_cs1\08_class_intro\autoclass\obj\Debug\net9.0\ref\autoclass.dll
